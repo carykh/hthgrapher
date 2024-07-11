@@ -1,3 +1,7 @@
+# Head-to-head grapher!
+
+![A diagram of the head-to-head grapher in action.](diagram.png)
+
 For WCA competitions. Draws a side-by-side graph of competitor's final round results to see what their WPA/BPA are.
 
 View the HTH grapher in action here: https://htwins.net/hthgrapher
